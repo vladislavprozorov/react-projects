@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 2.2em;
+  margin: 24px 0 40px 0;
+}

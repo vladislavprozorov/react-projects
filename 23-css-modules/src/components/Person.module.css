@@ -1,0 +1,27 @@
+.headtitle {
+  color: blueviolet;
+  font-size: 40px;
+}
+.personBtn {
+  padding: 10px 5px;
+  min-height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: none;
+  outline: none;
+  border-radius: 18px;
+  transition: 0.3s ease all;
+}
+.person {
+  max-width: 500px;
+  margin: 25px auto;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.personBtn:hover{
+  background: #000;
+  color: #FFF;
+}

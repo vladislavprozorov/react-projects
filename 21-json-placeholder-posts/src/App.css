@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.body {
+  background-color: rgb(70, 70, 158);
+}
+h1 {
+  font-size: 40px;
+}
+button {
+  min-height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px 15px;
+  background-color: rgb(93, 93, 190);
+  width: 100%;
+  margin: 0 0 15px 0;
+  cursor: pointer;
+}

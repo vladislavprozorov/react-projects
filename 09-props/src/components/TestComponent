@@ -1,0 +1,10 @@
+function TestComponent({ name, age }) {
+  return (
+    <div>
+      <h1>
+        My {name} is {age} years old
+      </h1>
+    </div>
+  );
+}
+export default TestComponent;
